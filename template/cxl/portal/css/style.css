@@ -1,0 +1,33 @@
+/* ----------------------------------
+CSS www.adminbuy.cn
+---------------------------------- */
+
+.body1000{margin-left:auto;margin-right:auto;width:1000px}
+
+.infoad{margin:0 5px 10px 0}
+.indexcatad{width:1000px;margin:5px auto 0 auto;overflow:hidden;*margin-bottom:5px}
+.ni-flist1 .indexcatad{width:200px;}
+.ni-flist2 .indexcatad{width:220px;}
+.ni-flist3 .indexcatad{width:275px;}
+.full .ni-flist1 .indexcatad,.full .ni-flist2 .indexcatad{width:280px!important;}
+.full .ni-flist3 .indexcatad{width:275px!important;}
+#ni-flist .indexcatad{ margin-top:0; margin-bottom:5px;}
+.full .indexcatad{width:1200px!important;}
+.full .body1000{width:1200px!important}
+.full .logosearchtel{width:1200px!important}
+.full .barcenter{width:1200px!important}
+.full .footsearch{width:1198px!important}
+.full .footsearch ul{width:740px!important}
+.full .footsearch .footsearch_input{width:450px!important}
+.full .logosearchtel .websearch{width:660px!important}
+.full .websearch .sch_t_frm{width:506px!important}
+.full .websearch .topsearchinput{width:355px!important}
+.full .subsearchbottomline{width:1200px!important}
+.full .topbanner{width:1200px!important}
+.full .footerbanner{width:1200px!important}
+.full .header{width:1200px!important}
+.full .indexcatad{width:1200px!important}
+.full .subsearch ul li{width:119px!important}
+.full .subsearch ul li a{width:117px!important}
+.full .cateintro{width:1198px!important}
+.full .cateintro .introflink,.full .cateintro .introright{width:1020px;_width:1010px}
